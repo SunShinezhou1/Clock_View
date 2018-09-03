@@ -1,2 +1,2 @@
 # Clock_View
-# this is my first project
+# This is a custom clock
